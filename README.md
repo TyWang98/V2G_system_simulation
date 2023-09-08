@@ -1,4 +1,4 @@
-# The Construction and Simulation of V2G System in Micro-grid
+# Construction and Simulation of V2G System in Micro-grid
 
 This repository is dedicated to Vehicle-to-Grid (V2G) technology, encompassing a technical documentation and corresponding Simulink simulation files.
 
